@@ -108,3 +108,5 @@ cacheSolve <- function(x, ...) {
 ## cacheSolve(x)
 
 ## You can confirm that they are inverses by doing ordinary matrix multiplication: round(M%*%Minv,3)
+ 
+
